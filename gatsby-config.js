@@ -61,13 +61,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Jfmaggie Personal Blog`,
+        short_name: `Jfmaggie`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#000000`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/profile-pic.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
