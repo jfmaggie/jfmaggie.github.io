@@ -6,10 +6,11 @@ module.exports = {
       summary: `a software engineer lives in Vancouver, BC.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://jfmaggie.github.io/`,
     social: {
       twitter: `jfmaggie`,
     },
+    pathPrefix: "jfmaggie.github.io",
   },
   plugins: [
     {
