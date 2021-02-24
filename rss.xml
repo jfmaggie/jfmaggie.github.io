@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Jfmaggie]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://jfmaggie.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 24 Feb 2021 06:24:39 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><link>https://jfmaggie.github.io/hello-world/</link><guid isPermaLink="false">https://jfmaggie.github.io/hello-world/</guid><pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a44fdef96e4d03ccf06ed8c37ece6cb4/8e1fc/bailey-code.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 177.8481012658228%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAkABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIEBQMG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAGvwQSTUQ5lqrrZuJorz18TRBX/xAAfEAACAgIBBQAAAAAAAAAAAAABAgADBBITECEiIzP/2gAIAQEAAQUCvufm2aAM0t+0xqFetdZwqxr8UoHsoAIidpinp//EABYRAAMAAAAAAAAAAAAAAAAAAAARIP/aAAgBAwEBPwEU/wD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/ASW7jn//xAAeEAACAQQDAQAAAAAAAAAAAAAAARECECFBMTJRkf/aAAgBAQAGPwJpVODs/psbXFpqWynxkKRIl5M3dv/EABwQAQADAAMBAQAAAAAAAAAAAAEAESEQQVGRMf/aAAgBAQABPyFYOOhqL/v1TUH6lVa05wxvri/IUjsqr0l7g9lCeiUAgGhMe08ZUImjqI684//aAAwDAQACAAMAAAAQhDl9D8//xAAZEQACAwEAAAAAAAAAAAAAAAAAARARITH/2gAIAQMBAT8QdiwJXC7H/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEREDH/2gAIAQIBAT8QiCUxxnGf/8QAHxABAAMAAgEFAAAAAAAAAAAAAQARMSFhkXGBscHR/9oACAEBAAE/EEG4BVZzkc5frZ8wVbppRfvcBKtFelVBvK8kBKjboPu41UTtI7CLhI0okBbRVAQxs5cvbDcCFFvHcDWniAYGrggV0OfeGT//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;I code for my human&quot;
+        title=&quot;I code for my human&quot;
+        src=&quot;/static/a44fdef96e4d03ccf06ed8c37ece6cb4/828fb/bailey-code.jpg&quot;
+        srcset=&quot;/static/a44fdef96e4d03ccf06ed8c37ece6cb4/ff44c/bailey-code.jpg 158w,
+/static/a44fdef96e4d03ccf06ed8c37ece6cb4/a6688/bailey-code.jpg 315w,
+/static/a44fdef96e4d03ccf06ed8c37ece6cb4/828fb/bailey-code.jpg 630w,
+/static/a44fdef96e4d03ccf06ed8c37ece6cb4/8e1fc/bailey-code.jpg 900w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
