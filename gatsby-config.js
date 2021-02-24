@@ -5,7 +5,7 @@ module.exports = {
       name: `Meichen Zhou`,
       summary: `a software engineer lives in Vancouver, BC.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Jfmaggie Personal Blog`,
     siteUrl: `https://jfmaggie.github.io/`,
     social: {
       twitter: `jfmaggie`,
